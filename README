@@ -1,0 +1,16 @@
+problem statement 
+The goal of this assignment is to make a code that works for an airplane in C coding. 
+The airline has one plane with 24 seats and operates two flights, one outbound and the other inbound.
+The code needs an array to create the seat information, and give the menu availibity, seat assign, delete, and the passengers.
+
+Describe solution 
+I used C programming. I made two arrays for each flight, outbound and inbound. 
+I started by making all the seats empty. I made a main menu to allow the person to choose between outbound, inbound, and quitting the program. 
+After they can choose the seat, delete it, and return.
+
+pro and cons
+-Menu requirement
+-It is understandable
+
+-there is separation
+-You can return and lose the information if wrong input is given; it does not give other options
